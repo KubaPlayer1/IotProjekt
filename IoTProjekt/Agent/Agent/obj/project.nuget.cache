@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zfV46KDRRHanJXXH1ny8Y6Qu0FZ+b6Kj2I/+n7vk9L1LgzOAqO+VdR6cVRvOS/EqnNVr582j8kZaeKh1PgfOdg==",
+  "dgSpecHash": "cmEjIt7/NYvlFXzsIcFNs+QFaxo9TYZ1pTls/mDymw2yNf7hSafa4VDQddHYI1DMzaDk3QKrh7UwYS6iFlUwvQ==",
   "success": true,
-  "projectFilePath": "C:\\Studia\\IoT\\IotProjekt\\Agent\\Agent\\Agent.csproj",
+  "projectFilePath": "C:\\Users\\rewiz\\Documents\\GitHub\\IotProjekt\\IoTProjekt\\Agent\\Agent\\Agent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rewiz\\.nuget\\packages\\dotnetty.buffers\\0.7.0\\dotnetty.buffers.0.7.0.nupkg.sha512",
     "C:\\Users\\rewiz\\.nuget\\packages\\dotnetty.codecs\\0.7.0\\dotnetty.codecs.0.7.0.nupkg.sha512",

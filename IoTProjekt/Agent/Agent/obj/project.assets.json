@@ -5986,11 +5986,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Studia\\IoT\\IotProjekt\\Agent\\Agent\\Agent.csproj",
+      "projectUniqueName": "C:\\Users\\rewiz\\Documents\\GitHub\\IotProjekt\\IoTProjekt\\Agent\\Agent\\Agent.csproj",
       "projectName": "Agent",
-      "projectPath": "C:\\Studia\\IoT\\IotProjekt\\Agent\\Agent\\Agent.csproj",
+      "projectPath": "C:\\Users\\rewiz\\Documents\\GitHub\\IotProjekt\\IoTProjekt\\Agent\\Agent\\Agent.csproj",
       "packagesPath": "C:\\Users\\rewiz\\.nuget\\packages\\",
-      "outputPath": "C:\\Studia\\IoT\\IotProjekt\\Agent\\Agent\\obj\\",
+      "outputPath": "C:\\Users\\rewiz\\Documents\\GitHub\\IotProjekt\\IoTProjekt\\Agent\\Agent\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rewiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
