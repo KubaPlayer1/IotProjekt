@@ -1,0 +1,4 @@
+Opc Connection Link:
+opc.tcp://localhost:4840/
+Primary Connection Parameters:
+HostName=Kuba.azure-devices.net;DeviceId=id-13102022;SharedAccessKey=HLYq2gXeTtAC0xSK7Ded4cl3n9tCuPvzyBQNqmeP+zY=
