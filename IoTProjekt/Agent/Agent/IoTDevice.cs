@@ -49,6 +49,8 @@ public class IoTDevice
                         temperature = temperature,
                     };
 
+                    //Console.WriteLine(telemetryData);
+
                     await SendTelemetryMessage(telemetryData, client);
 
                     var deviceErrors = opcClient.ReadNode($"ns=2;s=Device {device}/DeviceErrors").Value;
